@@ -12,6 +12,20 @@ img{
     width: 100%;
 }
 
+h3{
+    font-size: larger;
+}
+.bottomright{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    bottom: -25%;
+    right: 0%;
+
+
+    
+}
+
 .welcome{
     text-align: center;
 }
@@ -22,4 +36,9 @@ img{
 
 button{
     background-color: #deb777;
+    align-items: center;
+}
+
+.rules{
+    font-size: larger;
 }
