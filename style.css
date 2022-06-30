@@ -2,7 +2,6 @@ html body{
     padding: 0;
     margin: 0;
     display: grid;
-
 }
 
 img{
@@ -14,5 +13,8 @@ img{
 
 .welcome{
     text-align: center;
-    
+}
+
+.firstlist{
+    margin-top: -1.2%;
 }
