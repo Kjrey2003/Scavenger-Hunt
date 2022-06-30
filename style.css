@@ -10,6 +10,9 @@ img{
     flex-direction: row;
     height: 80%;
     width: 100%;
+}
 
-
+.welcome{
+    text-align: center;
+    
 }
