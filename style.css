@@ -2,7 +2,7 @@ html body{
     padding: 0;
     margin: 0;
     display: grid;
-    background-color: #deb777;
+   /* background-color: #deb777; */
 }
 
 img{
@@ -19,7 +19,7 @@ h3{
     height: 80px;
     width: 80px;
     position: relative;
-    bottom: -100%;
+    bottom: 0%;
     right: 0%;
 }
 
@@ -44,5 +44,14 @@ button{
 }
 
 .clues{
-    font-size: x-large;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.recharge{
+    width: 80%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
