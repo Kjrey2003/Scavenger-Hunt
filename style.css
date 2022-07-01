@@ -19,11 +19,8 @@ h3{
     height: 80px;
     width: 80px;
     position: relative;
-    bottom: -25%;
+    bottom: -100%;
     right: 0%;
-
-
-    
 }
 
 .welcome{
@@ -40,6 +37,7 @@ button{
 }
 
 .rules{
+    line-height: 4;
     padding-right: 15px;
     padding-left: 15px;
     font-size: larger;
