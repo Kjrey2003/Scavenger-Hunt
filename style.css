@@ -2,7 +2,7 @@ html body{
     padding: 0;
     margin: 0;
     display: grid;
-   /* background-color: #deb777; */
+    background-color: #deb777; 
 }
 
 img{
